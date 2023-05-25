@@ -1,0 +1,5 @@
+text-shadow = sombra nas letras
+*{global}
+line-height = tamanho de linha
+list-style-type = codigo 
+list-style-position = inside
